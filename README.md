@@ -3,9 +3,9 @@
 Welcome to my Honeypot project portfolio. This repository demonstrates the design, deployment, and analysis of a cybersecurity honeypot used to **detect**, **log**, and **study malicious activities** in a controlled environment.
 
 ---
-Author: D0up4
-Project Type: Blue Team Recon
-Last Updated: 07/2025
+Author: D0up4   
+Project Type: Blue Team Recon    
+Last Updated: 07/2025    
 ---
 ## 📌 Project Overview
 
