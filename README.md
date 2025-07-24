@@ -33,7 +33,8 @@ This portfolio includes configuration files, deployment scripts, and analysis re
 
 ## 🧪 Deployment Guide Clone the repo
 
-git clone https://github.com/D0up4/Honeypot cd honeypot-portfolio Set up the environment Follow the setup guide:
+git clone https://github.com/D0up4/Honeypot cd honeypot-portfolio 
+Set up the environment Follow the setup guide:
 
 Run the honeypot Depending on the tool (e.g., Docker + Cowrie)
 
